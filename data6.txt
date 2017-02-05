@@ -1,0 +1,146 @@
+A
+Kitty       
+Kat         
+777 Feline Road     
+Portland    
+OR
+92231
+A
+Deputy      
+Dogg        
+89 Cainine Lane     
+Huntsville  
+TX
+65342
+A
+Tweetie     
+Bird        
+442 Hawknest Drive  
+Columbia    
+MO
+64303
+P 
+E
+A
+Porky       
+Pig         
+7 Bacon Street      
+Davenport   
+IA
+68202
+C
+Dogg        
+4
+Dallas      
+P 
+S 
+Dogg        
+A
+Donald      
+Duck        
+840 Golden Pond Rd  
+Kansas City 
+MO
+65552
+C
+Cat         
+1
+Felix       
+A
+Mickey      
+Moose       
+1234 Rodent Way     
+Los Angeles 
+CA
+95221
+A
+Bugs        
+Bunnie      
+6 Hopalong Trail    
+Omaha       
+NE
+71894
+P 
+E
+D
+Kitty       
+Kat         
+A
+Mary        
+Poppins     
+59 London Street    
+New York    
+NY
+12345
+P 
+S 
+Poppins     
+C
+Poppins     
+6
+15002
+C
+Moose       
+2
+Mouse       
+D
+May         
+West        
+P 
+S 
+Moose       
+A
+Road        
+Runner      
+1313 Desert Way     
+Tempe       
+AZ
+88020
+A
+Tazmainian  
+Devil       
+67 Hades Place      
+San Jose    
+CA
+97202
+A
+Wylie       
+Coyote      
+15 Luckless Drive   
+Tombstone   
+AZ
+85392
+C
+Runner      
+3
+444 Gila Bend       
+C
+Coyote      
+5
+NM
+A
+Mary        
+Poppins     
+12 Singers Lane     
+Nashville   
+TN
+55342
+D
+Charlie     
+Brown       
+P 
+E
+Q
+
+   CODE               FORMAT
+    A      AL FirstName LastName StreetAddress City State ZipCode
+    D      DL FirstName LastName
+    C      CH FirstName LastName <field number> New Value  
+    P      PN                               
+
+1.  Last Name -- 12 characters long
+2.  First Name -- 12 characters long
+3.  Street Address -- 20 characters long
+4.  City -- 12 characters long
+5.  State -- 2 characters long
+6.  Zip Code -- 5 characters long

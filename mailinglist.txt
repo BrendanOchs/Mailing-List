@@ -1,0 +1,97 @@
+                  Brendan Ochs
+                   Spring 2016
+----------------------------------------------------------------------
+
+New customer Kitty Kat was successfully added to the database!
+**********************************************************************
+New customer Deputy Dogg was successfully added to the database!
+**********************************************************************
+New customer Tweetie Bird was successfully added to the database!
+**********************************************************************
+                          MAILING LIST
+Customer  Last        First                                              Zip
+Number    Name        Name          Address             City     State   Code
+================================================================================
+  1       Kat         Kitty       777 Feline Road     Portland    OR     92231
+  2       Dogg        Deputy      89 Cainine Lane     Huntsville  TX     65342
+  3       Bird        Tweetie     442 Hawknest Drive  Columbia    MO     64303
+**********************************************************************
+New customer Porky Pig was successfully added to the database!
+**********************************************************************
+Customer Deputy Dogg successfully updated!
+**********************************************************************
+Customer Number   2
+Name:   Deputy       Dogg              Address:  89 Cainine Lane     
+City:   Dallas       State:  TX        Zip Code:   65342
+**********************************************************************
+New customer Donald Duck was successfully added to the database!
+**********************************************************************
+ERROR! Attempt to change non-existent record. Attempt failed!
+**********************************************************************
+New customer Mickey Moose was successfully added to the database!
+**********************************************************************
+New customer Bugs Bunnie was successfully added to the database!
+**********************************************************************
+                          MAILING LIST
+Customer  Last        First                                              Zip
+Number    Name        Name          Address             City     State   Code
+================================================================================
+  1       Kat         Kitty       777 Feline Road     Portland    OR     92231
+  2       Dogg        Deputy      89 Cainine Lane     Dallas      TX     65342
+  3       Bird        Tweetie     442 Hawknest Drive  Columbia    MO     64303
+  4       Pig         Porky       7 Bacon Street      Davenport   IA     68202
+  5       Duck        Donald      840 Golden Pond Rd  Kansas City MO     65552
+  6       Moose       Mickey      1234 Rodent Way     Los Angeles CA     95221
+  7       Bunnie      Bugs        6 Hopalong Trail    Omaha       NE     71894
+**********************************************************************
+Customer Deputy Dogg was successfully removed from the database
+**********************************************************************
+New customer Mary Poppins was successfully added to the database!
+**********************************************************************
+Customer Number   7
+Name:   Mary         Poppins           Address:  59 London Street    
+City:   New York     State:  NY        Zip Code:   12345
+**********************************************************************
+Customer Mary Poppins successfully updated!
+**********************************************************************
+Customer Mickey Mouse successfully updated!
+**********************************************************************
+ERROR! Attempt to delete a non-existent record. Attempt Failed!
+**********************************************************************
+ERROR! Attempt to print a non-existent record.Attempt failed
+**********************************************************************
+New customer Road Runner was successfully added to the database!
+**********************************************************************
+New customer Tazmainian Devil was successfully added to the database!
+**********************************************************************
+New customer Wylie Coyote was successfully added to the database!
+**********************************************************************
+Customer Road Runner successfully updated!
+**********************************************************************
+Customer Wylie Coyote successfully updated!
+**********************************************************************
+ERROR! Attempt to add a duplicate record. Attempt Failed!
+**********************************************************************
+ERROR! Attempt to delete a non-existent record. Attempt Failed!
+**********************************************************************
+                          MAILING LIST
+Customer  Last        First                                              Zip
+Number    Name        Name          Address             City     State   Code
+================================================================================
+  1       Dogg        Deputy      89 Cainine Lane     Dallas      TX     65342
+  2       Bird        Tweetie     442 Hawknest Drive  Columbia    MO     64303
+  3       Pig         Porky       7 Bacon Street      Davenport   IA     68202
+  4       Duck        Donald      840 Golden Pond Rd  Kansas City MO     65552
+  5       Mouse       Mickey      1234 Rodent Way     Los Angeles CA     95221
+  6       Bunnie      Bugs        6 Hopalong Trail    Omaha       NE     71894
+  7       Poppins     Mary        59 London Street    New York    NY     15002
+  8       Runner      Road        444 Gila Bend       Tempe       AZ     88020
+  9       Devil       Tazmainian  67 Hades Place      San Jose    CA     97202
+ 10       Coyote      Wylie       15 Luckless Drive   Tombstone   NM     85392
+**********************************************************************
+
+END OF PROGRAM OUTPUT
+
+  ---------------------------------
+|------END OF PROGRAM OUTPUT-------|
+  ---------------------------------
